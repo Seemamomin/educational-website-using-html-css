@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    }
+    
+
+body{
+   
+    background-color:white;
+    font-size: 14px;
+}
+.container{
+    width: 500px;
+    background-color:white;
+    padding: 25px;
+    margin: 50px auto 0;
+    border-top: 5px solid orange;
+    box-shadow:0 0 7px rgba(0,0,0,0.5);
+}
+.heading{
+    font-size: 14px;
+    margin-left:15px ;
+    color: purple;
+    border: 5px solid orange;
+    width: 90%;
+    border-radius: 10px;
+    text-align: center;
+    padding: 20px;
+}
+.input-name{
+    width:90%;
+    position: relative;
+    margin:16px 15px;
+}
+.email{
+    width: 100%;
+    padding:8px 0px 8px 40px;
+}
+.lock{
+    padding: 8px 11px;
+}
+.name{
+    width: 45%;
+    padding:8px 0px 8px 40px;
+
+}
+.input-name span{
+    margin-left: 35px;
+}
+.input-name i {
+    position: absolute;
+    font-size: 20px;
+    border-right: 1px solid #cccccc;
+}
+.ema{
+    padding:8px;
+}
+.reg{
+
+    width: 100%;
+    padding:8px 0px 8px 40px;
+    font-size: 16px;
+    background-color:#FFC300 ;
+    border: #FFC300;
+    color: white;
+}
